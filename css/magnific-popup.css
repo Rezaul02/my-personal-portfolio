@@ -298,7 +298,7 @@ img.mfp-img {
   cursor: pointer; }
   /* I want to edit this part this is the  Mobile responsive process   */
 
-@media screen and (max-width: 600px) and (orientation: landscape), screen and (max-height: 200px) {
+@media screen and (max-width: 600px) and (orientation: landscape), screen and (max-height: 300px) {
   /**
        * Remove all paddings around the image on small screen
        */
